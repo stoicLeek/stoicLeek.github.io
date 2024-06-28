@@ -1,9 +1,3 @@
-"""
-txtAnalyzer_0.2.py: první projekt do Engeto Online Python Akademie
-author: Vladan Pivovarnik
-email: v.pivovarnik@seznam.cz
-discord username: vladan0257
-"""
 from tabulate import tabulate
 
 def login(name, password):
